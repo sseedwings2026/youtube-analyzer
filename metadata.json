@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Content Idea Miner",
+  "description": "An AI-powered tool to discover viral YouTube content ideas by analyzing video efficiency (views vs. subscribers) and synthesizing audience feedback from comments using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
